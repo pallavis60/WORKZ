@@ -1,4 +1,4 @@
-rdepublic class MethodOverloading{
+public class MethodOverloading{
 	
 	public static void main(String [] args){
 		
@@ -6,9 +6,9 @@ rdepublic class MethodOverloading{
 		byte value = 35;
 		institute("XWorkz",67687,value);
 		
-		//call(57657657L);
+		call(57657657L);
 		
-		//work(34565,"XWorkz");
+		work(34565,"XWorkz");
 	}
 	
 	public static String institute(){
